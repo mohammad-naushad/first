@@ -3,5 +3,6 @@
 void main()
 {
 printf("hello Git");
+  printf("hi");
 getch();
 }
